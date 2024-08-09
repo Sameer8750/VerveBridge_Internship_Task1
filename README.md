@@ -63,4 +63,4 @@ Submit pull requests to collaborate on improvements.
 Reach out to me:
 
 - Sameer Shinde
-Email: sameershinde1621@gmail.com
+- Email: sameershinde1621@gmail.com
