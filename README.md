@@ -41,3 +41,26 @@ EDA was conducted to uncover patterns and insights within the dataset:
 - Vertical Jump: Players with higher vertical jumps are often selected in earlier draft rounds.
 - Agility & Sprint: Faster players generally perform better in the agility and sprint tests.
 
+## 🛠️ Setup and Usage
+
+**1. Clone the repository:**
+```bash
+    https://github.com/Sameer8750/VerveBridge_Internship_Task1.git
+```
+
+**Analyze with Python:**
+
+Dive into the Python analysis by opening NBA_Draft_Combine_analysis.ipynb.
+
+## 🤝 Contributing
+
+- Contributions are welcome! Whether you want to enhance the analysis or add new features:
+- Open issues to discuss potential changes.
+- 
+Submit pull requests to collaborate on improvements.
+
+## 📬 Contact
+Reach out to me:
+
+- Sameer Shinde
+Email: sameershinde1621@gmail.com
