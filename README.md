@@ -54,10 +54,9 @@ Dive into the Python analysis by opening NBA_Draft_Combine_analysis.ipynb.
 
 ## 🤝 Contributing
 
-- Contributions are welcome! Whether you want to enhance the analysis or add new features:
+Contributions are welcome! Whether you want to enhance the analysis or add new features:
 - Open issues to discuss potential changes.
-- 
-Submit pull requests to collaborate on improvements.
+- Submit pull requests to collaborate on improvements.
 
 ## 📬 Contact
 Reach out to me:
